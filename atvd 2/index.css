@@ -1,0 +1,48 @@
+
+
+.corpo{
+    display: flex;
+    width: 5000px;
+    height: 2000px;
+    background-color: rgb(0, 89, 255);
+    
+}
+.topo{
+    width: 5000px;
+    height: 200px;
+    background-color: rgb(255, 0, 21);
+}
+.fundo{
+    width: 5000px;
+    height: 200px;
+    background-color: rgb(238, 255, 0);
+    margin-bottom: 50%;
+}
+.preto{
+    width: 3500px;
+    height: 2000px;
+    background-color: rgb(0, 0, 0);
+}
+.colorbox{
+    width: 3500px;
+    height: 2000px;
+    background-color: rgb(3, 255, 100);
+    margin-left:4500px ;
+}
+.block1{
+    width: 350px;
+    height: 700px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.block2{
+    width: 350px;
+    height: 700px;
+    background-color: rgb(252, 8, 8);
+    
+}
+h1{
+    font-size: 100px;
+    margin-left: 3000px;
+}
+
